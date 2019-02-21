@@ -3,7 +3,7 @@ SparkFun Pro Mini Candy
 
 ![SparkFun Pro Mini Candy ](https://cdn.sparkfun.com//assets/parts/9/3/0/8/12627-04.jpg)
 
-[* SparkFun  Pro Mini Candy (DEV-12627)*](https://www.sparkfun.com/products/retired/12627)
+[*SparkFun  Pro Mini Candy (DEV-12627)*](https://www.sparkfun.com/products/retired/12627)
 
 
 This is a repository for the special SparkFun version of the Arduino Pro Mini 5V/16 MHz board.
